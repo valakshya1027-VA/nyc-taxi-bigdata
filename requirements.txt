@@ -1,0 +1,9 @@
+pyspark>=3.4,<4.0
+pandas>=2.0
+pyarrow>=12.0
+holidays>=0.40
+requests>=2.31
+plotly>=5.18
+streamlit>=1.30
+kafka-python>=2.0.2
+pytest>=7.4
